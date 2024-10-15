@@ -1,4 +1,4 @@
-NestJS API - Books and Authors
+# NestJS API - Books and Authors
 Este projeto é uma API simples construída usando o framework NestJS. A API gerencia entidades de livros e autores, permitindo que usuários obtenham informações sobre autores e livros através de operações CRUD básicas.
 
 Funcionalidades
