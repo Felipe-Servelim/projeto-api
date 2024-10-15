@@ -17,7 +17,7 @@ Autores (/authors)
 
  - GET /authors/:id: Retorna um autor específico baseado no id.
 
- - Livros (/books)
+Livros (/books)
 
  - GET /books: Retorna uma lista de todos os livros.
 
